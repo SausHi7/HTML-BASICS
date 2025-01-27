@@ -1,0 +1,7 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+body {
+  padding: 2em 15%;
+}
